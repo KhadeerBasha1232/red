@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+contact
+  {
+    background: red;
+  }
+  
+  name
+  {
+    background: green;
+    color: white;
+    font-size: 18pt;
+    font-weight: bold;
+  }
+
+  email
+  {
+    color:white;
+    font-style: italic;
+  }
+
+  name, email
+  {
+    display: block;
+  }

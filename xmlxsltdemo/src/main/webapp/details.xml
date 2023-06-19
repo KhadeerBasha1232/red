@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="my-xsl.xsl"?>
+<!DOCTYPE xml>
+ <contact>
+    <person>
+      <name>khadeer</name>
+      <email>khadeer@gmail.com</email>
+    </person>
+    
+    <person>
+      <name>jayaPrakash</name>
+      <email>jp@gmail.com</email>
+    </person>  
+    <person>
+      <name>Prakash</name>
+      <email>prakash@gmail.com</email>
+    </person>
+  </contact>
